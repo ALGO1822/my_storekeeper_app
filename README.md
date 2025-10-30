@@ -18,9 +18,9 @@ Designed for **storekeepers and small business owners** (especially in Nigeria),
 * **Home Screen**
 * **Add/Edit Product**
 * **Inventory Summary**
-
+  
 > *(Add screenshots here using Markdown image syntax)*
-> `![Home Screen](screenshots/home.jpg)`
+![Home Screen](screenshots/home.jpg)`
 > `![Add Product](screenshots/add_product.jpg)`
 > `![Summary](screenshots/summary.jpg)`
 > `![Edit Product](screenshots/edit_product.jpg)`
