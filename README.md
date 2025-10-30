@@ -7,7 +7,7 @@ Designed for **storekeepers and small business owners** (especially in Nigeria),
 
 ## 🚀 Quick Links
 
-* **GitHub Repo:** [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+* **GitHub Repo:** [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/ALGO1822/my_storekeeper_app)
 * **Demo Video:** [Watch a demo of the app in action.](https://www.youtube.com/YOUR_VIDEO_LINK)
 * **Download APK:** [Click here to download the release APK.](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/download/v1.0.0/app-release.apk)
 
@@ -20,9 +20,10 @@ Designed for **storekeepers and small business owners** (especially in Nigeria),
 * **Inventory Summary**
 
 > *(Add screenshots here using Markdown image syntax)*
-> `![Home Screen](screenshots/home.png)`
-> `![Add Product](screenshots/add_product.png)`
-> `![Summary](screenshots/summary.png)`
+> `![Home Screen](screenshots/home.jpg)`
+> `![Add Product](screenshots/add_product.jpg)`
+> `![Summary](screenshots/summary.jpg)`
+> `![Edit Product](screenshots/edit_product.jpg)`
 
 ---
 
