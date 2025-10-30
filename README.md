@@ -8,8 +8,8 @@ Designed for **storekeepers and small business owners** (especially in Nigeria),
 ## 🚀 Quick Links
 
 * **GitHub Repo:** [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/ALGO1822/my_storekeeper_app)
-* **Demo Video:** [Watch a demo of the app in action.](https://www.youtube.com/YOUR_VIDEO_LINK)
-* **Download APK:** [Click here to download the release APK.](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/download/v1.0.0/app-release.apk)
+* **Demo Video:** [Watch a demo of the app in action.](https://drive.google.com/file/d/1rn9U7CTBrmluf6QAxSajSadJmxricqGp/view?usp=drivesdk)
+* **Download APK:** [Click here to download the release APK.](https://drive.google.com/file/d/1mirmoewfnw29V0E3_pnjaycBuGIgYjm8/view?usp=drivesdk)
 
 ---
 
@@ -63,7 +63,7 @@ Designed for **storekeepers and small business owners** (especially in Nigeria),
 
 You can download the latest release APK directly from this repository.
 
-➡️ **[Download the latest v1.0.0 APK](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/download/v1.0.0/app-release.apk)**
+➡️ **[Download the latest v1.0.0 APK](https://drive.google.com/file/d/1mirmoewfnw29V0E3_pnjaycBuGIgYjm8/view?usp=drivesdk)**
 
 > **Note:** After downloading, you may need to enable
 > *“Allow installation from unknown sources”* in your Android device settings to install.
@@ -109,4 +109,4 @@ flutter run
 **Favour Tomisin**
 Flutter & Web Developer | Creative Designer
 📧 [tomisinabayomi2007@gmail.com](mailto:tomisinabayomi2007@gmail.com)
-🌍 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) • [GitHub](https://github.com/YOUR_USERNAME)
+
