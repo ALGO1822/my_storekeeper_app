@@ -104,9 +104,3 @@ flutter run
 
 ---
 
-## 🧑‍🏫 Author
-
-**Favour Tomisin**
-Flutter & Web Developer | Creative Designer
-📧 [tomisinabayomi2007@gmail.com](mailto:tomisinabayomi2007@gmail.com)
-
